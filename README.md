@@ -1,3 +1,3 @@
-# fixm_test
+# fixm_user_manual
 
-Testing the use of Github for displaying and maintaining the FIXM documentation. 
+This repository provides...  
